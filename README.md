@@ -1,8 +1,8 @@
 ## Date/Time Calculator - Android Mobile Application
 
-## Name: Tejasree Taluri
-## Date created: September 2024
-## Skills / Technologies: Java, XML, Android SDK, and Android Studio IDE.
+# Name: Tejasree Taluri
+# Date created: September 2024
+# Skills / Technologies: Java, XML, Android SDK, and Android Studio IDE.
 
 An Android mobile application using Java, that allows users to calculate new dates/times by adding or subtracting hours, days, weeks, or months from the current date.
 Designed a responsive UI using ConstraintLayout for portrait and landscape orientations, ensuring consistent functionality and user experience. 
